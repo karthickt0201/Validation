@@ -1,0 +1,60 @@
+
+body
+{
+    width: 100%;
+    height: 657px;
+    background-repeat: no-repeat;
+    display: flex;
+    background-image: linear-gradient( 90deg,  white, green, white);
+    justify-content: center;
+    align-items: center;
+}
+#small3{
+    width: 200px;
+    height: 30px;
+    margin-top: -30px;
+    color: green;
+}
+#small4{
+    width: 200px;
+    height: 30px;
+    margin-top: -30px;
+    color: green;
+}
+#small1{
+    width: 200px;
+    height: 30px;
+    color: red;
+}   
+#small2{
+    width: 200px;
+    height: 30px;
+    color: red;
+}
+
+.form-group i {
+    top: 30px;
+    left: -5px;
+    position: relative;
+}
+.form-group , .form-control
+{
+    margin-left: -.6rem;
+    padding-left: 2rem;
+    margin-right: rem;
+}
+.box1
+{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+}
+button{
+    outline: none;
+    border: 0px;
+    margin-top: -20px;
+    padding: -2rem;
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    background-color: transparent;
+}
